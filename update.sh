@@ -99,7 +99,7 @@ downloadFromFdroid() {
 #phh's Superuser
 downloadFromFdroid me.phh.superuser
 #Navigation
-downloadFromFdroid net.osmand.plus
+#downloadFromFdroid net.osmand.plus
 #Web browser
 # downloadFromFdroid org.mozilla.fennec_fdroid "Browser2 QuickSearchBox"
 #Calendar
@@ -128,9 +128,9 @@ downloadFromFdroid com.google.android.gms
 downloadFromFdroid com.google.android.gsf
 downloadFromFdroid com.android.vending
 
-repo=https://archive.newpipe.net/fdroid/repo/
+#repo=https://archive.newpipe.net/fdroid/repo/
 #YouTube viewer
-downloadFromFdroid org.schabi.newpipe
+#downloadFromFdroid org.schabi.newpipe
 
 repo=https://fdroid.bromite.org/fdroid/repo/
 downloadFromFdroid org.bromite.bromite "Browser2 QuickSearchBox"
